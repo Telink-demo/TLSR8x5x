@@ -17,16 +17,7 @@ Telink's new generation TLSR8x5x family presents state of the art ultra low powe
 | TLSR8359F64ES16  | 64        | 64         | +10dBm | -96dBm@BLE1M -93dBm@BLE2M -99dBm@BLE500K=S2 -101dBm@BLE125K=S8 -99.5dBm@Zigbee | 5.3mA@Rx_fullchip 5.4mA@Tx0dBm_fullchip <1uA@sleep+SRAM 0.4uA@sleep | 2.4G RFID                     | TSSOP16 | 4.96×4.4×1.2mm-0.65 |
 | TLSR8656F512ET32 | 64        | 512        | +10dBm | -96dBm@BLE1M -93dBm@BLE2M -99dBm@BLE500K=S2 -101dBm@BLE125K=S8 -99.5dBm@Zigbee | 5.3mA@Rx_fullchip 5.4mA@Tx0dBm_fullchip <1uA@sleep+SRAM 0.4uA@sleep | Zigbee 3.0                    | QFN32   | 5x5x0.75mm-0.5      |
 
-## Datasheet
-Download [TLSR8258 Product Brief](http://wiki.telink-semi.cn/doc/ds/PB_TLSR8258-E_Product%20Brief%20for%20Telink%20BLE%20IEEE802.15.4%20Multi-Standard%20Wireless%20SoC%20TLSR8258.pdf) | [TLSR8258 Datasheet](http://wiki.telink-semi.cn/doc/ds/DS_TLSR8258-E_Datasheet%20for%20Telink%20BLE%20IEEE802.15.4%20Multi-Standard%20Wireless%20SoC%20TLSR8258.pdf)
 
-Download [TLSR8253 Product Brief](http://wiki.telink-semi.cn/doc/ds/PB_TLSR8253-E_Product%20Brief%20for%20Telink%20BLE%20SoC%20TLSR8253.pdf) | [TLSR8253 Datasheet](http://wiki.telink-semi.cn/doc/ds/DS_TLSR8253-E_Datasheet%20for%20Telink%20BLE%20SoC%20TLSR8253.pdf)
-
-Download [TLSR8251 Product Brief](http://wiki.telink-semi.cn/doc/ds/PB_TLSR8251-E_Product%20Brief%20for%20Telink%20BLE%20SoC%20TLSR8251.pdf) | [TLSR8251 Datasheet](http://wiki.telink-semi.cn/doc/ds/DS_TLSR8251-E_Datasheet%20for%20Telink%20BLE%20SoC%20TLSR8251.pdf)
-
-Download [TLSR8359 Product Brief](http://wiki.telink-semi.cn/doc/ds/PB_TLSR8359-E_Product%20Brief%20for%20Telink%20ULP%202.4GHz%20RF%20SoC%20TLSR8359.pdf) | [TLSR8359 Datasheet](http://wiki.telink-semi.cn/doc/ds/DS_TLSR8359-E_Datasheet%20for%20Telink%20ULP%202.4GHz%20RF%20SoC%20TLSR8359.pdf)
-
-Download [TLSR8656 Product Brief](http://wiki.telink-semi.cn/doc/ds/PB_TLSR8656-E_Product%20Brief%20for%20Telink%20ULP%202.4GHz%20RF%20SoC%20TLSR8359.pdf) | [TLSR8656 Datasheet](http://wiki.telink-semi.cn/doc/ds/DS_TLSR8656-E_Datasheet%20for%20Telink%20Zigbee_RF4CE%20SoC%20TLSR8656.pdf)
 
 ## 8x5x Reference Design
 
@@ -46,13 +37,4 @@ Download [TLSR8656 Product Brief](http://wiki.telink-semi.cn/doc/ds/PB_TLSR8656-
 | Driver                     | TLSR8258      | [API User guide for TLSR8258F512](http://wiki.telink-semi.cn/driver/doc/kite/html/index.html)                       | [Driver Library V1.0.0](http://wiki.telink-semi.cn/driver/src/kite/Driver_Library.zip)             |                                                                               |                                                  |
 | BLE Generic(Mi)            | TLSR8258      |                                                       | V2.1.0                            |                                                                               |                                                  |
 
-## Hardware Developing Tools
 
-[TLSR8x5x Hardware Guideline](http://wiki.telink-semi.cn/doc/an/AN_18110700-EC_TLSR8x5x%20Hardware%20Design%20Guide.pdf)
-[Antenna and PCB Circuit Design Guide](http://wiki.telink-semi.cn/doc/an/AN_16080500-E_Telink%20Antenna%20Design%20Guide.pdf)
-
-## Manufacture Support Tools
-
-[Mass Production Testplan](http://wiki.telink-semi.cn/doc/an/AN_16071800-E_Telink%20Mass%20Production%20Program%20And%20Test%20Plan.pdf)
-[Telink Testbench 1x6 User Guide](http://wiki.telink-semi.cn/doc/an/AN_18071200-E_Assembly%20and%20Maintenance%20Manual%20for%20Telink%20BLE%201x6%20Test%20System%203.2.pdf)
-[Telink Testbench 1x1 User Guide](http://wiki.telink-semi.cn/doc/an/AN_16052600-E_Assembly%20and%20Maintenance%20Manual%20for%20Telink%20BLE%201x1%20Test%20System%202.1.pdf)
